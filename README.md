@@ -7,4 +7,4 @@ Installation and usage:
 2. Create a file with the name "domainlist.txt" which contains the list of domain/subdomains.
 3. To execute: python3 getStatus.py
 
-Your input and suggestions are always welcome _/\\_
+Your input and suggestions are always welcome :)
