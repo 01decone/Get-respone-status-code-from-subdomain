@@ -17,7 +17,7 @@ print(
 file = open('domainlist.txt','r')
 def gstatus(x):
   try:
-   s_code = requests.get('http://'+x)
+   s_code = requests.get('https://'+x)
    print(x, s_code.status_code)
   except:
    print("Not resolved: " +x)
